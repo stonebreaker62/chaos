@@ -1,0 +1,5 @@
+baseURL = "http://makingchaos.de/"
+languageCode = "de"
+title = "Making Chaos"
+theme = "ananke"
+background_color_class = "bg-blue"
